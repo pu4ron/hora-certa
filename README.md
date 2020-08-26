@@ -1,12 +1,14 @@
-# PU4RON - Ronualdo
+# RONUALDO - PU4RON
+
 # Script para ajuste de horário PT-BR no pi-star.
 
-rpi-rw
-
 # Para excluir versões antigas do script.
+rpi-rw
 sudo rm -R /home/pi-star/hora-certa
 
 # Comandos para executar script.
+
+rpi-rw
 
 sudo git clone https://github.com/pu4ron/hora-certa.git
 
