@@ -1,5 +1,5 @@
-# Ronualdo PU4RON
-# Script para ajuste de horário BR no pi-star.
+# PU4RON - Ronualdo
+# Script para ajuste de horário PT-BR no pi-star.
 
 rpi-rw
 
