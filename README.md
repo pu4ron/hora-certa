@@ -3,7 +3,9 @@
 # Script para ajuste de horário PT-BR no pi-star.
 
 # Para excluir versões antigas do script.
+
 rpi-rw
+
 sudo rm -R /home/pi-star/hora-certa
 
 # Comandos para executar script.
