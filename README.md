@@ -1,6 +1,6 @@
 # RONUALDO - PU4RON
 
-# Script para ajuste de horário PT-BR no pi-star.
+# Script-V3 para ajuste de horário PT-BR no pi-star.
 
 # Para excluir versões antigas do script.
 
