@@ -1,6 +1,6 @@
 # RONUALDO - PU4RON
 
-# Script-V3 para ajuste de horário PT-BR no pi-star.
+# Script-V4 para ajuste de horário PT-BR no pi-star.
 
 # Para excluir versões antigas do script.
 
@@ -21,3 +21,5 @@ sudo chmod +x ntp.sh
 sudo chmod 777 ntp.sh
 
 sudo ./ntp.sh
+
+
